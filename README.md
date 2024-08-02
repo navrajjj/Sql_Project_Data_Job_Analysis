@@ -52,6 +52,8 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 
+![image](https://github.com/user-attachments/assets/bc193927-399d-4576-826c-218f4ead5d6b)
+
 ```
 
 ### 2. Skills for Top Paying Jobs
