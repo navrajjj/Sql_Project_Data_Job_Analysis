@@ -34,7 +34,7 @@ Each query for this project aimed at investigating specific aspects of the data 
 
 To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
 
-```sql
+```
 SELECT
     job_id,
     job_title,
@@ -51,8 +51,6 @@ WHERE
 ORDER BY
     salary_year_avg DESC
 LIMIT 10;
-
-![image](https://github.com/user-attachments/assets/bc193927-399d-4576-826c-218f4ead5d6b)
 
 ```
 
