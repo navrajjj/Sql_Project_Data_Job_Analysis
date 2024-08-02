@@ -7,8 +7,7 @@ Check out my SQL queries here: [https://github.com/navrajjj/Sql_Project_Data_Job
 ### **Background**
 
 The motivation behind this project stemmed from my desire to understand the data analyst job market better. I aimed to discover which skills are paid the most and in demand, making my job search more targeted and effective. 
-
-The data for this analysis is from Luke Barousse’s SQL Course (include link to the course). This data includes details on job titles, salaries, locations, and required skills. 
+The data that I have used is from open source.
 
 The questions I wanted to answer through my SQL queries were:
 
